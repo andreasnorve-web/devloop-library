@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "id": "2026-03-28T10-33-56-bygg-en-kalkulator-app",
+      "prompt": "Bygg en kalkulator app",
+      "promptSlug": "bygg-en-kalkulator-app",
+      "savedAt": "2026-03-28T10:33:56.278Z",
+      "fileCount": 2,
+      "folderPath": "projects/2026-03-28T10-33-56-bygg-en-kalkulator-app"
+    },
+    {
       "id": "2026-03-28T10-30-32-test-prosjekt-for-debugging",
       "prompt": "Test prosjekt for debugging",
       "promptSlug": "test-prosjekt-for-debugging",
